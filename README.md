@@ -66,4 +66,4 @@ Potential enhancements include:
 
 ## Author
 
-Created as an AP Computer Science Principles project to explore GUI development and calculator functionality using Python and Tkinter.
+Created as an AP Computer Science Principles (2024-2025) project to explore GUI development and calculator functionality using Python and Tkinter.
