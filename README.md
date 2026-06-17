@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a graphical calculator application created in Python using the Tkinter library. The calculator allows users to perform basic arithmetic operations through an interactive button-based interface. It was developed as part of an AP Computer Science Principles project to demonstrate programming concepts such as functions, lists, user input handling, graphical user interfaces (GUI), and error handling.
+This project is a graphical calculator application created in Python using the Tkinter library. The calculator allows users to perform basic arithmetic operations through an interactive button-based interface. It was developed as part of an AP Computer Science Principles (2024-2025) project to demonstrate programming concepts such as functions, lists, user input handling, graphical user interfaces (GUI), and error handling.
 
 ## Features
 
